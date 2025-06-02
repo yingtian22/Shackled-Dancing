@@ -1,9 +1,9 @@
 # Shackled-Dancing
 A Bit-Locked Diffusion Algorithm for Lossless and Controllable Image Steganography
 
-<span style="background-color: red; color: white; padding: 2px 5px; border-radius: 3px;">arXiv: 2505.10950</span>
-<a href="https://arxiv.org/abs/2505.10950" style="color: white; text-decoration: none;">arXiv: 2505.10950</a>
-<a href="https://github.com/yingtian22/Shackled-Dancing" style="background-color: #007bff; color: white; padding: 2px 5px; border-radius: 3px; text-decoration: none;">Project Page</a>
+[![arXiv](https://img.shields.io/badge/arXiv-2505.10950-b31b1b.svg)](https://arxiv.org/abs/2505.10950)
+[![Project Page](https://img.shields.io/badge/Project-Page-007ec6.svg)](https://github.com/yingtian22/Shackled-Dancing)
+
 
 ## Brief
 
