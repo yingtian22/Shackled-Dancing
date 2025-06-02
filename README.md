@@ -2,7 +2,7 @@
 A Bit-Locked Diffusion Algorithm for Lossless and Controllable Image Steganography
 
 <a href="https://arxiv.org/abs/2505.10950" style="background-color: red; color: white; padding: 2px 5px; border-radius: 3px; text-decoration: none;">arXiv: 2505.10950</a>
-<a href="https://github.com/yingtian22/Shackled-Dancing" style="background-color: #007bff; color: white; padding: 2px 5px; border-radius: 3px; text-decoration: none;">Project Page</a>
+<a href="https://example.com/project" style="background-color: #007bff; color: white; padding: 2px 5px; border-radius: 3px; text-decoration: none;">Project Page</a>
 
 ## Brief
 
