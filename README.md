@@ -4,6 +4,7 @@ A Bit-Locked Diffusion Algorithm for Lossless and Controllable Image Steganograp
 [![arXiv](https://img.shields.io/badge/arXiv-2505.10950-b31b1b.svg)](https://arxiv.org/abs/2505.10950)
 [![Project Page](https://img.shields.io/badge/Project-Page-007ec6.svg)](https://github.com/yingtian22/Shackled-Dancing)
 
+> 🚧 Our code is currently being cleaned up and will be released soon. Stay tuned!
 
 ## Brief
 
