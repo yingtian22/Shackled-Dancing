@@ -50,3 +50,16 @@ A Bit-Locked Diffusion Algorithm for Lossless and Controllable Image Steganograp
 
 ## Acknowledgement
 Our code is built on [Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement). We gratefully appreciate their open source contribution!
+
+## 📄 How to Cite
+
+If you use this work in your research or publication, please cite:
+
+```bibtex
+@article{zhang2025shackled,
+  title={Shackled Dancing: A Bit-Locked Diffusion Algorithm for Lossless and Controllable Image Steganography},
+  author={Zhang, Tianshuo and Jia, Gao and Zhai, Wenzhe and Yann, Rui and Xing, Xianglei},
+  journal={arXiv preprint arXiv:2505.10950},
+  year={2025}
+}
+```
